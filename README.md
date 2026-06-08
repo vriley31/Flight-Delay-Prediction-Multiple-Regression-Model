@@ -8,7 +8,6 @@ This project applies **Multiple Linear Regression** techniques in **SAS Studio**
 
 Airline delays can be influenced by many factors, including weather conditions, staffing availability, fueling time, baggage handling, security procedures, and late-arriving aircraft. This project uses a multiple linear regression model to evaluate these relationships and predict arrival delays.
 
-The analysis was completed as part of the **ITEC5040 Predictive Models and Classification Methods** coursework using the Flight Delay dataset from Gupta (2018).
 
 ---
 
