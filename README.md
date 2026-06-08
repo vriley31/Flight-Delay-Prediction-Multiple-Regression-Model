@@ -129,7 +129,6 @@ Gupta, D. (2018). *Source code for applied analytics through case studies using 
 
 **Victoria Riley**
 
-MS Information Technology – Analytics Candidate  
-Capella University
+Graduate Student | Data Analytics & Predictive Modeling
 
-📊 Data Analytics | Predictive Modeling | Business Intelligence | SAS | Python | SQL
+GitHub: [@vriley31](https://github.com/vriley31)
